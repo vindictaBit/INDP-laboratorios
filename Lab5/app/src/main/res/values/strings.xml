@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detallesCatedral">Fue construida con ignimbrita (piedra de origen volcánico), y bövedas de ladrillo; es el santuario principal de la ciudad ocupando todo el lado norte de la Plaza de Armas. Construida totalmente en sillar, exhibe un estilo neorrenacentista con cierta influencia gótica. Su fachada está constituida por setenta columnas con capiteles corintios, tres portadas y dos grandes arcos laterales. Está rematada por dos altas torres renacentistas y estilizadas.</string>
+    <string name="detallesClaustro">El Claustro de la Compañía, construido enteramente en sillar, destaca por su elegante arquitectura barroca mestiza del siglo XVII. Sus pasajes rodean un hermoso patio central adornado con fuentes y jardines, enmarcados por arcos tallados en piedra con intrincados detalles florales y figuras religiosas. Las columnas, esculpidas a mano, exhiben motivos decorativos inspirados en el arte colonial peruano, fusionando elementos indígenas y europeos. Este emblemático conjunto arquitectónico servía como centro religioso y educativo de la orden jesuita, y su impresionante conservación lo convierte en un testimonio vivo del legado cultural arequipeño.</string>
+</resources>
